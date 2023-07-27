@@ -195,5 +195,10 @@ cinemas.html
 ![college](college.png)
 ![cinemas](cinemas.png)
 
+## HTML Validator:
+![html](htmlvalidator1.png)
+![html](htmlvalidator2.png)
+![html](htmlvalidator3.png)
+
 ## Result:
 The program is completed successfully.
